@@ -1,0 +1,8 @@
+{
+  "name": "Nutribud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "731b4161"
+}
